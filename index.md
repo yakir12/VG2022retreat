@@ -12,6 +12,9 @@ section::after {
 }
 </style>
 
+
+![bg left:40% 80%](link.png)
+
 # Webapp development for scientists
 
 Yakir Gagnon - Lund Vision Group meeting 2024/09/04
